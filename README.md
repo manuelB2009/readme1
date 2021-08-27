@@ -19,7 +19,7 @@ virtualenv env
 ```sh
  env\scripts\activate
  ```
- o
+en linux
  ```sh
  source env/bin/activate
 ```
